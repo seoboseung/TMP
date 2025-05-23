@@ -1,1 +1,2 @@
-# 팀 GIT 협업 실습
+# 팀woojeong GIT 협업 실습
+했습니다
